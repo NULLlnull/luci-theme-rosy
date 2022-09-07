@@ -320,7 +320,7 @@ header .container {
     font-size: 18px;
     display: inline-block;
     padding: 6px 0 0 34px;
-    background: url(./no-pwd.png) no-repeat left top / 28px;
+    background: url(no-pwd.png) no-repeat left top / 28px;
 }
 
 .alert-message > * {
@@ -1593,7 +1593,7 @@ header > .container > .pull-right > * {
 
 /* fix Main Login*/
 .login {
-	background: #fff url(./loginBG.png) no-repeat center center / cover;
+	background: #fff url(loginBG.png) no-repeat center center / cover;
 }
 
 .login > .main > .main-left {
@@ -1693,14 +1693,14 @@ header > .container > .pull-right > * {
     height: 24px;
     width: 24px;
     display: inline-block;
-    background: url(./op-eye.png) no-repeat center center / cover;
+    background: url(op-eye.png) no-repeat center center / cover;
     position: absolute;
     top: 8px;
     right: 12px;
 }
 
 .login > .main .cbi-value-last .cbi-value-field.op-eye > div {
-    background-image: url(./cl-eye.png);
+    background-image: url(cl-eye.png);
 }
 
 .login > .main .cbi-value .cbi-input-text {
@@ -1714,11 +1714,11 @@ header > .container > .pull-right > * {
 }
 
 .login > .main .cbi-value .cbi-input-text {
-	background-image: url(./user.png);
+	background-image: url(user.png);
 }
 
 .login > .main .cbi-value-last .cbi-input-text {
-	background-image: url(./pwd.png);
+	background-image: url(pwd.png);
 }
 
 .login > .main form > .cbi-page-actions {
@@ -1987,7 +1987,7 @@ body.lang_pl.login .cbi-value-title {
         content: "";
         height: 20px;
         width: 26px;
-        background: url(./menu-logo.png) no-repeat center center / cover;
+        background: url(menu-logo.png) no-repeat center center / cover;
         display: inline-block;
     }
 
